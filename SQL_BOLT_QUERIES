@@ -1,0 +1,25 @@
+Exercise 1 :
+
+
+Question 1 - Find the title of each film 
+Ans - SELECT title FROM movies;
+
+
+Question 2 - Find the director of each film
+Ans - Find the director of each film 
+
+
+Question 3 - Find the title and director of each film
+Ans - SELECT title,director FROM movies;
+
+
+Question 4 - Find the title and year of each film 
+Ans - SELECT title,year FROM movies;
+
+
+Question 5 - Find all the information about each film
+Ans - SELECT * FROM movies;
+
+
+
+------------x-------------------------x----------------------x------------
